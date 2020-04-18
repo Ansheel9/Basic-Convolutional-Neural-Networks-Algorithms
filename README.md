@@ -1,7 +1,3 @@
----
-title: 'README'
----
-
 # Convolutional Neural Networks 
 
 ---
